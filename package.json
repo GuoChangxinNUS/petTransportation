@@ -1,5 +1,5 @@
 {
-  "name": "pets-hospital",
+  "name": "pets-transportation",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,6 +9,9 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "echarts": "^4.9.0",
+    "video.js": "^8.10.0",
+    "videojs-contrib-hls": "^5.15.0",
     "vue": "^2.6.14"
   },
   "devDependencies": {
